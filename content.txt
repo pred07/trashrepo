@@ -1,0 +1,15 @@
+<span id="a">cyfotok@capturetheflag</span>:<span id="b">~</span><span id="c">$</span> cd /cyfotok  
+<span id="a">cyfotok@capturetheflag</span>:<span id="b">~</span><span id="c">$</span> whoami  
+<blockquote>"<span id="k">Breaking codes, building skills, capturing flags.</span>"</blockquote>
+
+<p>Welcome to the official CTF platform of Cyfotok!</p>  
+<p>Hey Cyber Enthusiasts! We are Cyfotok, a team of cybersecurity professionals and educators empowering the next generation of ethical hackers. This platform is designed to ignite your curiosity and challenge your skills in the exciting world of cybersecurity.</p>  
+<p><b>Our Mission:</b><br>  
+To create a safe and competitive space for cybersecurity enthusiasts to learn, compete, and master the art of securing the digital world.</p>  
+<span id="a">cyfotok@capturetheflag</span>:<span id="b">~</span><span id="c">$</span> cat contact.txt  
+<p><b>Get in Touch:</b><br>  
+Connect with us on <a href="https://www.linkedin.com/company/cyfotok">LinkedIn</a> for updates and insights.<br>  
+For inquiries or support, email us at <a href="mailto:mail@cyfotok.com">support@cyfotok.com</a>.<br>  
+Let’s secure the future together!</p>  
+
+<span id="a">cyfotok@capturetheflag</span>:<span id="b">~</span><span id="c">$</span> exit  
